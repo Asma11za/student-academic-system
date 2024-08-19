@@ -28,5 +28,5 @@ There are several features and capabilities of the system lacking, which may res
 
 <h2> Language used: </h2>
 
-- Python 
-- Java
+- Python (Jupyter Notebook)
+- Java (Online Compiler)
