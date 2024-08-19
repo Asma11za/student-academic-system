@@ -4,8 +4,8 @@
 <h2> About </h2> 
 
 This project aims to develop a Student Grade and Academic Performance Tracking System. For both teachers and students, keeping track of and controlling academic performance in the fast-paced world of education is essential. With the Student Grade and Academic Performance Tracking System, grading can be done faster, student development can be tracked, and parent-teacher communication can be improved.
-<br>
-(*Note): The system will be developed using two programming languages: Python and Java. for comparison purposes. 
+<br><br>
+(*Note): The system was developed using two programming languages: Python and Java. for comparison purposes. 
 
 <h2> Project Goals </h2>
 
