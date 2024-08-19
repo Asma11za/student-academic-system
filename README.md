@@ -1,11 +1,11 @@
-<h1> GradeMaster: Student Academic Performance Tracker. </h1>
+<h1> GradeMaster: Student Academic Performance Tracker (Python & Java) </h1>
 
 <img width="468" alt="grade" src="https://github.com/user-attachments/assets/85677df4-9b79-4795-bdd5-eed5780e9d7e"> 
 <h2> About </h2> 
 
 This project aims to develop a Student Grade and Academic Performance Tracking System. For both teachers and students, keeping track of and controlling academic performance in the fast-paced world of education is essential. With the Student Grade and Academic Performance Tracking System, grading can be done faster, student development can be tracked, and parent-teacher communication can be improved.
 <br>
-The system will be developed using two programming languages: Python and Java. A comparison between both languages' performance will be conducted.
+(*Note): The system will be developed using two programming languages: Python and Java. for comparison purposes. 
 
 <h2> Project Goals </h2>
 
